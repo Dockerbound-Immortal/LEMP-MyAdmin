@@ -1,5 +1,6 @@
-# docker-compose-Bjornstad2
-A simplified Docker Compose workflow that sets up a BEMP network of containers for local development. 
+# LEMP MyAdmin
+
+A simplified Docker Compose workflow that sets up a LEMP network of containers for local development with PHPMyAdmin. 
 
 ## Usage
 
